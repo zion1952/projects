@@ -1,0 +1,22 @@
+.carousel  {
+    width: auto;
+    height: 450px;
+    margin: 0;
+}
+ons-button[modifier="light"] {
+  margin: 0px 8px;
+}
+ons-col {
+  border: 1px solid black;
+  background: white;
+  overflow: hidden;
+  padding: 0px;
+  color: brown;
+}
+.title {
+  border: 0px;
+  background: green;
+  overflow: hidden;
+  padding: 0px;
+  color: white;
+}
